@@ -79,4 +79,4 @@ James comes from Ghana and is a student in the Math and Science Education progra
 
 James is an avid reader who likes to write poetry when he is not engaged with math. As a first-generation student, he sees the Ph.D. in the Math and Science Education program as a unique opportunity to pursue his interest in creativity, technicality, critical thinking, writing, math, and technology. Also, he sees himself bridging the communication gap that exists between neophytes and experts in both the mathematics and science education community.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
