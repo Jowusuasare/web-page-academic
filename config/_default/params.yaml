@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: S
+  theme_day: futuristic
+  theme_night: futuristic
+  font: futuristic
+  font_size: m
 
 # SEO
 
