@@ -16,14 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Mathematics and Science Education.
 
-# Interests to show in About widget
-interests:
-  - Augmented and Virtual Reality
-  - Machine Learning
-  - Data Science
-  - Science Communication and DEI
-  - Mathematics Education
-
 # Education to show in About widget
 education:
   courses:
@@ -40,6 +32,14 @@ education:
       institution: Kwame Nkrumah University of Science And Technology
       year: 2015
 
+# Interests to show in About widget
+interests:
+  - Augmented and Virtual Reality
+  - Machine Learning
+  - Data Science
+  - Science Communication and DEI
+  - Mathematics Education
+  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
