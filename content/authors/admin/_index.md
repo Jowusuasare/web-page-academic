@@ -75,8 +75,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-James comes from Ghana and is a student in the Math and Science Education program in Pullman. He has a background in pure, applied, and computational mathematics, which fuels his interest in the experiences of math education in the classroom. Being someone familiar with the “not a math-person” rhetoric, he is curious about leveraging his own plethora of experiences with math and technology to challenge the “not a math-person” and under-served communities to be open to the exciting opportunities understanding math can bring.
+I have a background in pure, applied, and computational mathematics, which fuels my curiosity in the experiences of mathematics education in the classroom. Being someone familiar with the “not a math-person” rhetoric, I am curious about leveraging my plethora of experiences with mathematics and technology to challenge the “not a math-person” and under-served communities to be open to the exciting opportunities understanding mathematics can bring.
 
-James is an avid reader who likes to write poetry when he is not engaged with math. As a first-generation student, he sees the Ph.D. in the Math and Science Education program as a unique opportunity to pursue his interest in creativity, technicality, critical thinking, writing, math, and technology. Also, he sees himself bridging the communication gap that exists between neophytes and experts in both the mathematics and science education community.
+I like to engage in poetry and the outdoors when I am not doing mathematics. As a first-generation student, I see the Ph.D. journey as a unique opportunity to pursue my interest in interdisciplinary research. I aspire to bridge the communication gap that exists between neophytes and experts in both the mathematics and science education community.
 
 
