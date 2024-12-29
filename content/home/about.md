@@ -10,7 +10,7 @@ active: true
 design:
   background:
    image: websitepage_background.jpg
-   image_darken: 0.91
+   image_darken: 0.17
    image_parallax: true
    image_position: center
    image_size: cover
