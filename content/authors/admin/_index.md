@@ -19,23 +19,24 @@ bio: My research interests include Mathematics and Science Education.
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Mathematics and Science Education
+    - course: PhD. Mathematics and Science Education
       institution: Washington State University
       year: 2026 (Expected)
-    - course: MS in Mathematics (Computational)
+    - course: MS. Applied Mathematics 
       institution: Washington State University
       year: 2021
-    - course: MPhil in Pure Mathematics
+    - course: MPhil. Pure Mathematics
       institution: Kwame Nkrumah University of Science And Technology
       year: 2018
-    - course: BSc in Mathematics (Operations Research)
+    - course: BSc. Mathematics (Operations Research)
       institution: Kwame Nkrumah University of Science And Technology
       year: 2015
 
 # Interests to show in About widget
 interests:
   - Mathematics Education
-  - Science Communication and DEI
+  - Computational Social Science
+  - Science Communication
   - Augmented and Virtual Reality
   - Machine Learning
   - Data Science
