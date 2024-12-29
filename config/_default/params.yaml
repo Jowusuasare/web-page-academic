@@ -6,37 +6,37 @@
 # Appearance
 
 theme: my_theme
-day_night: false
-font: my_font_set
-font_size: S
+day_night: true
+font: ''
+font_size: s
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Doctoral Student in Statistics at The University of Michigan, Ann Arbor'
+description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-#email: bagyare@umich.edu
-#phone: 888 888 88 88
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
-#  country_code: US
-#coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
-#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# email: test@example.org
+# phone: 888 888 88 88
+address:
+  street: 404 Cockins Hall, 1958 Neil Ave.
+  city: Columbus
+  region: OH
+  postcode: '43210'
+  country: United States
+  country_code: US
+# coordinates:
+# latitude: '37.4275'
+# longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
- # - 'Monday 10:00 to 13:00'
-  - 'Saturday 14:00 to 15:30'
-appointment_url: 'https://calendly.com/bosafoagyare/'
+  - 'Mondays 18:00 to 21:00'
+  - 'Thursdays 18:00 to 20:00'
+appointment_url: 'https://calendly.com/jameyi'
 contact_links:
 #  - icon: twitter
 #    icon_pack: fab
@@ -54,10 +54,6 @@ contact_links:
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
-  - icon: linkedin
-    icon_pack: fab
-    name: LinkedIn Profile
-    link: https://www.linkedin.com/in/benjamin-osafo-agyare/
 
 # Site header
 
@@ -81,8 +77,6 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-  - python
-  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -140,19 +134,19 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy 
+  provider: wowchemy
   algolia:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: true
+    show_logo: false
 map:
   provider: ''
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'UA-200851324-1'
-  google_tag_manager: 'G-GPL6087QSL'
+  google_analytics: 'UA-204908391-1'
+  google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
