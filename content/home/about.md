@@ -6,6 +6,29 @@ widget: about
 # Activate this widget? true/false
 active: true
 
+# Design of section
+design:
+  background:
+   image: websitepage_background.jpg
+   image_darken: 0.27
+   image_parallax: true
+   image_position: center
+   image_size: cover
+#   text_color_light: true
+  spacing:
+#   padding: ["0px", "0", "1px", "0"]
+
+# design:
+#  background:
+#    gradient_angle: 90
+#    gradient_start: 'rgb(225,245,212)'
+#    gradient_end: 'rgb(225,245,212)'
+# gradient_start: 'rgb(148,167,140)'
+#  gradient_end: 'rgb(2148,167,140)'
+#    text_color_light: false 
+
+
+
 # This file represents a page section.
 headless: true
 
