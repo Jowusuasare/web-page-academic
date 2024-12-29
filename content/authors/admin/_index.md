@@ -21,7 +21,7 @@ education:
   courses:
     - course: PhD in Mathematics and Science Education
       institution: Washington State University
-      year: 2024 (Expected)
+      year: 2026 (Expected)
     - course: MS in Mathematics (Computational)
       institution: Washington State University
       year: 2021
