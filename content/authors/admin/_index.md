@@ -43,7 +43,7 @@ interests:
   - Augmented and Virtual Reality
   - Machine Learning
   - Data Science
-  
+
    
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
