@@ -6,14 +6,8 @@
 # Appearance
 theme: my_theme
 day_night: true
-font: my_font_set
-font_size: S
-
-# appearance:
- # theme_day: minimal
- # theme_night: minimal
- # font: minimal
- # font_size: m
+font: ''
+font_size: s
 
 # SEO
 
